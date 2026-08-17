@@ -1,28 +1,14 @@
-### Gideon Rabi S
-**GideonRabi1319**
-
-**Follow** · **Sponsor**
-
-Aspiring DevOps Engineer passionate about cloud infrastructure, automation, and building end-to-end CI/CD pipelines.
-
-📍 India
-🔗 [linkedin.com/in/gideonrabi1319](http://www.linkedin.com/in/gideonrabi1319)
-📧 gideonrabipro1319@gmail.com
-
-<br clear="left"/>
-
----
-
 `gideonrabi1319 / README.md` → **GideonRabi1319 / README.md**
 
 
 ## 🖐️ About Me
 
-- My full name is **Gideon Rabi S**
-- My degree is **B.Tech - Artificial Intelligence and Data Science**
-- My role: **Aspiring DevOps Engineer**
-- Primary Focus: **DevOps & Cloud Infrastructure** — building automated, end-to-end deployment pipelines
-- My mindset: *"Learn → Build → Share → Improve"*
+- **Name:** Gideon Rabi S
+- **Degree:** B.Tech in Artificial Intelligence and Data Science
+- **Role:** Aspiring DevOps Engineer
+- **Primary Focus:** Cloud Infrastructure & DevOps — designing and automating end-to-end deployment pipelines using AWS, Docker, Terraform, and Kubernetes
+- **Currently Expanding Into:** Configuration management (Ansible), CI/CD automation (Jenkins), and container orchestration (Kubernetes)
+- **Approach:** Learn → Build → Share → Improve
 
 ## 🌐 Connect With Me
 
