@@ -26,22 +26,19 @@
 
 ## 🚀 Projects
 
-**Automated Infrastructure Provisioning for a Dockerized App with Terraform**
+**[Automated Infrastructure Provisioning for a Dockerized App with Terraform](https://github.com/GideonRabi1319/Automated_Infrastructure_Provisioning_for_a_Dockerized_App_with_Terraform)** <br>
 Provisioned AWS infrastructure using Terraform — IAM user & policy, EC2 instance, security group, Elastic IP, and EBS volume/snapshot — and automated Docker image build and deployment of a bike-booking web application via an EC2 user-data bootstrap script.
 `Terraform` `AWS` `Docker`
 
-**End-to-End CI/CD Pipeline for a Containerized App on Kubernetes** *(June – July 2025)*
-Built and deployed a static portfolio website with a fully automated CI/CD pipeline — containerized with Docker (Nginx), infrastructure provisioned via Terraform, servers configured with Ansible, deployed to Kubernetes, and builds/deployments automated with Jenkins on every GitHub commit.
-`Docker` `Terraform` `Ansible` `Kubernetes` `Jenkins`
+**[Sports Bike Booking](https://github.com/GideonRabi1319/Sports_Bike_Booking)**<br>
+A static bike-booking web application built with HTML, CSS, and JavaScript, containerized using Docker with an Nginx web server to serve the site, and orchestrated with Docker Compose for simplified local deployment.
+`HTML` `CSS` `JavaScript` `Docker` `Nginx` `Docker Compose`
 
 ## 📚 Learning Topics
 
 - <img src="https://skillicons.dev/icons?i=kubernetes" width="20" style="vertical-align:middle;"/> Kubernetes (Helm, Operators)
 - <img src="https://skillicons.dev/icons?i=ansible" width="20" style="vertical-align:middle;"/> Ansible
 - <img src="https://skillicons.dev/icons?i=jenkins" width="20" style="vertical-align:middle;"/> Jenkins
-- <img src="https://skillicons.dev/icons?i=aws" width="20" style="vertical-align:middle;"/> AWS Networking & Security
-- CI/CD Pipeline Design Patterns
-- AI/ML Applications in Healthcare & Legal-Tech
 
 <br/>
 
