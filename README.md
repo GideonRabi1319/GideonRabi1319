@@ -1,5 +1,3 @@
-<img src="https://your-photo-url-here.jpg" width="180" align="left" style="border-radius:50%; margin-right:20px;"/>
-
 ### Gideon Rabi S
 **GideonRabi1319**
 
@@ -15,9 +13,8 @@ Aspiring DevOps Engineer passionate about cloud infrastructure, automation, and 
 
 ---
 
-`prateekrajput08 / README.md` → **GideonRabi1319 / README.md**
+`gideonrabi1319 / README.md` → **GideonRabi1319 / README.md**
 
-`Profile views` · `Stars` · `Followers` — add these once you set up the badges below
 
 ## 🖐️ About Me
 
@@ -25,7 +22,6 @@ Aspiring DevOps Engineer passionate about cloud infrastructure, automation, and 
 - My degree is **B.Tech - Artificial Intelligence and Data Science**
 - My role: **Aspiring DevOps Engineer**
 - Primary Focus: **DevOps & Cloud Infrastructure** — building automated, end-to-end deployment pipelines
-- I'm interested in **AWS, Docker, Terraform, Kubernetes, and applying AI/ML to real-world domains**
 - My mindset: *"Learn → Build → Share → Improve"*
 
 ## 🌐 Connect With Me
@@ -63,10 +59,6 @@ Built and deployed a static portfolio website with a fully automated CI/CD pipel
 
 <br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GideonRabi1319&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GideonRabi1319&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
 
 ---
 
