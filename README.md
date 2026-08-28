@@ -4,7 +4,7 @@
 ## 🖐️ About Me
 
 - **Name:** Gideon Rabi S
-- **Degree:** B.Tech in Artificial Intelligence and Data Science
+- **Degree:** B.Tech - Artificial Intelligence and Data Science
 - **Role:** Aspiring DevOps Engineer
 - **Primary Focus:** Cloud Infrastructure & DevOps — designing and automating end-to-end deployment pipelines using AWS, Docker, Terraform, and Kubernetes
 - **Currently Expanding Into:** Configuration management (Ansible), CI/CD automation (Jenkins), and container orchestration (Kubernetes)
@@ -27,11 +27,11 @@
 ## 🚀 Projects
 
 **[Automated Infrastructure Provisioning for a Dockerized App with Terraform](https://github.com/GideonRabi1319/Automated_Infrastructure_Provisioning_for_a_Dockerized_App_with_Terraform)** <br>
-Provisioned AWS infrastructure using Terraform — IAM user & policy, EC2 instance, security group, Elastic IP, and EBS volume/snapshot — and automated Docker image build and deployment of a bike-booking web application via an EC2 user-data bootstrap script.
+Provisioned AWS infrastructure using Terraform — IAM user & policy, EC2 instance, security group, Elastic IP, and EBS volume/snapshot — and automated Docker image build and deployment of a bike-booking web application via an EC2 user-data bootstrap script.<br>
 `Terraform` `AWS` `Docker`
 
 **[Sports Bike Booking](https://github.com/GideonRabi1319/Sports_Bike_Booking)**<br>
-A static bike-booking web application built with HTML, CSS, and JavaScript, containerized using Docker with an Nginx web server to serve the site, and orchestrated with Docker Compose for simplified local deployment.
+A static bike-booking web application built with HTML, CSS, and JavaScript, containerized using Docker with an Nginx web server to serve the site, and orchestrated with Docker Compose for simplified local deployment. <br>
 `HTML` `CSS` `JavaScript` `Docker` `Nginx` `Docker Compose`
 
 ## 📚 Learning Topics
